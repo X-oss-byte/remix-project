@@ -20,7 +20,7 @@
   "typings": "./src/index.d.ts",
   "dependencies": {
     "@openzeppelin/contracts": "^4.7.3",
-    "@openzeppelin/wizard": "^0.1.1",
+    "@openzeppelin/wizard": "^0.8.0",
     "ethers": "^5.4.2",
     "web3": "^1.5.1"
   },
