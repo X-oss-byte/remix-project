@@ -28,7 +28,7 @@
   "homepage": "https://github.com/ethereum/remix-project#readme",
   "dependencies": {
     "@remixproject/plugin": "0.3.33",
-    "@remixproject/plugin-api": "0.3.33",
+    "@remixproject/plugin-api": "0.3.38",
     "@remixproject/plugin-utils": "0.3.33",
     "@remixproject/plugin-ws": "0.3.33",
     "axios": "1.1.2",
